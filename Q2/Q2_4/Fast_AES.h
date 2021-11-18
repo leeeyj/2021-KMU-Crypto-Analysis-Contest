@@ -9,6 +9,10 @@ typedef unsigned int uint32;
 #define BlockSize 16
 #define KeySize 16
 
+/*
+    Visual Studio Code, Window 10
+*/
+
 /* -----------------------------------------------------------------------------------------------------------------------------------------------*/
 /*                                                             <Basic Functions>                                                                  */
 

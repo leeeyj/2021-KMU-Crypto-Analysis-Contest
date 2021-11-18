@@ -2,6 +2,10 @@
 #include "./Fast_AES.h"
 #include <intrin.h>
 
+/*
+    Visual Studio Code, Window 10
+*/
+
 void AES128_E(uint8 (*input_Plain)[4], uint8 (*RoundKey)[4][4])
 {   
     // Fast AES-128 Encryption 
