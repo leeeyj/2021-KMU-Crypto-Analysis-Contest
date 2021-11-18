@@ -8,6 +8,10 @@ typedef unsigned char uint8;
 #define BlockSize 16
 #define KeySize 16
 
+/*
+    Visual Studio Code, Window 10
+*/
+
 /* -----------------------------------------------------------------------------------------------------------------------------------------------*/
 /*                                                             <Basic Functions>                                                                  */
 

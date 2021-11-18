@@ -2,6 +2,10 @@
 #include "./aes.h"
 #include <intrin.h>
 
+/*
+    Visual Studio Code, Window 10
+*/
+
 __int64 cpucycles() 
 {
     return __rdtsc();
